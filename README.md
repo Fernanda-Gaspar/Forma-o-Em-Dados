@@ -42,10 +42,14 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 ## 🚀 Como executar o projeto
 
-1. Clone este repositório https://github.com/Fernanda-Gaspar/Previsao_de_Falha
-2. Acesse a pasta do projeto no terminal/cmd
-3. Execute o arquivo requirements.txt
-3. Acesse o jupyter notebook e execute o aquivo previsao.ipynb
+1. Crie e ative um ambiente virtual
+2. Clone este repositório https://github.com/Fernanda-Gaspar/Previsao_de_Falha
+3. Acesse a pasta do projeto no terminal/cmd
+4. Execute o arquivo requirements.txt
+5. Instale um jupyter kernel para esse ambiente virtual:
+## ipython kernel install --user --name=nome_do_ambiente_virtual
+5. Selecione o kernel instalado quando estiver usando o jupyter notebook no ambiente virtual
+6. No jupyter notebook execute todas as células a partir do menu
 
 - [Previsão](https://github.com/Fernanda-Gaspar/Previsao_de_Falha/blob/main/previsao.ipynb)
 
